@@ -67,6 +67,7 @@ python modern_pomodoro.py
 ![Basic Version](screenshots/basic.png)
 ![Enhanced Version](screenshots/enhanced1.png)
 ![Modern Version](screenshots/ttkbootstrap1.png)
+![Modern Version](screenshots/ttkbootstrap2.png)
 
 ## 📖 Code Explanations
 
