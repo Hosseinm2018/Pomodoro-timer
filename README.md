@@ -199,7 +199,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 Hossein Mosaffa - [LİNKEDİN](https://www.linkedin.com/in/hossein-mosaffa-087975163)
 
-Project Link: [https://github.com/Hosseinm2018/pomodoro-timer](https://github.com/Hosseinm2018/pomodoro-timer)
+Project Link: [https://github.com/Hosseinm2018/pomodoro-timer](https://github.com/Hossein-Mosaffa/pomodoro-timer)
 
 ---
 
